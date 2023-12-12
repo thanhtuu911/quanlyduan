@@ -1,2 +1,2 @@
 # quanlyduan
-dự án về đặt phòng khách sạn đơn 
+dự án về đặt phòng khách sạn đơn giản
