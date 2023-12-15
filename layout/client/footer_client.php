@@ -73,9 +73,9 @@
                 </div>
                 <div class="col-md-3 col-sm-12">
                     <h2>Liên hệ</h2>
-                    <a href="" class="text1">Email: thuytxph26691@fpt.edu.vn</a> <br>
+                    <a href="" class="text1">Email: polyhotel@gmail.com</a> <br>
                     <a href="" class="text1">Phone: 0387976086</a><br>
-                    <a href="" class="text1">Địa chỉ: Đường Trịnh Văn Bô, Hà Nội</a><br>
+                    <a href="" class="text1">Địa chỉ: Thành phố LX, tỉnh An Giang</a><br>
 
                 </div>
             </div>
@@ -84,7 +84,7 @@
     <!--End Footer-->
 
     <div class="text-center col-12" style="background: #16154e; color:white; height:55px">
-        <p class="pt-3">Copyrights © 2022 by Poly's Hotel.</p>
+        <p class="pt-3">Copyrights © 2023 by Poly's Hotel.</p>
     </div>
 
     <!-- Optional JavaScript -->

@@ -56,16 +56,11 @@
                         <hr>
                         <h2><a href="/du_an_1_poly_hotel/?role=client&mod=introduce&action=index">Giới thiệu</a></h2>
                         <hr>
-                        <h2><a href="/du_an_1_poly_hotel/?role=client&mod=news&action=index">Tin tức</a></h2>
-                        <hr>
                         <h2><a href="/du_an_1_poly_hotel/?role=client&mod=contact&action=index">Liên hệ</a></h2>
                         <hr>
                         <h2><a href="/du_an_1_poly_hotel/?role=client&mod=return_Policy&action=index">Chính sách đổi trả</a></h2>
                         <hr>
                         <h2><a href="/du_an_1_poly_hotel/?role=client&mod=Privacy_Policy&action=index">Chính sách bảo mật</a></h2>
-                        <hr>
-                        <h2><a href="/du_an_1_poly_hotel/?role=client&mod=service_Policy&action=index">Chính sách dịch vụ</a></h2>
-                        <hr>
                         <img src="image/banner3.png" alt="">
                     </div>
 

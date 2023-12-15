@@ -52,11 +52,7 @@
                         <div class="dropdown-menu bg-color" aria-labelledby="navbarDropdown">
                             <a class="dropdown-item" style="color:gray;" href="/du_an_1_poly_hotel/?role=client&mod=Privacy_Policy&action=index">Chính sách bảo mật</a>
                             <a class="dropdown-item" style="color:gray;" href="/du_an_1_poly_hotel/?role=client&mod=return_Policy&action=index">Chính sách đổi trả</a>
-                            <a class="dropdown-item" style="color:gray;" href="/du_an_1_poly_hotel/?role=client&mod=service_Policy&action=index">Chính sách dịch vụ</a>
                         </div>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/du_an_1_poly_hotel/?role=client&mod=news&action=index">Tin tức</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/du_an_1_poly_hotel/?role=client&mod=introduce&action=index">Giới thiệu</a>
